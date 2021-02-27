@@ -1,0 +1,13 @@
+C:\Users\Rolando\source\repos\SingletoExampleDW_LMV\SingletoExampleDW_LMV\bin\Debug\netcoreapp3.1\SingletoExampleDW_LMV.exe
+C:\Users\Rolando\source\repos\SingletoExampleDW_LMV\SingletoExampleDW_LMV\bin\Debug\netcoreapp3.1\SingletoExampleDW_LMV.deps.json
+C:\Users\Rolando\source\repos\SingletoExampleDW_LMV\SingletoExampleDW_LMV\bin\Debug\netcoreapp3.1\SingletoExampleDW_LMV.runtimeconfig.json
+C:\Users\Rolando\source\repos\SingletoExampleDW_LMV\SingletoExampleDW_LMV\bin\Debug\netcoreapp3.1\SingletoExampleDW_LMV.runtimeconfig.dev.json
+C:\Users\Rolando\source\repos\SingletoExampleDW_LMV\SingletoExampleDW_LMV\bin\Debug\netcoreapp3.1\SingletoExampleDW_LMV.dll
+C:\Users\Rolando\source\repos\SingletoExampleDW_LMV\SingletoExampleDW_LMV\bin\Debug\netcoreapp3.1\SingletoExampleDW_LMV.pdb
+C:\Users\Rolando\source\repos\SingletoExampleDW_LMV\SingletoExampleDW_LMV\obj\Debug\netcoreapp3.1\SingletoExampleDW_LMV.csprojAssemblyReference.cache
+C:\Users\Rolando\source\repos\SingletoExampleDW_LMV\SingletoExampleDW_LMV\obj\Debug\netcoreapp3.1\SingletoExampleDW_LMV.AssemblyInfoInputs.cache
+C:\Users\Rolando\source\repos\SingletoExampleDW_LMV\SingletoExampleDW_LMV\obj\Debug\netcoreapp3.1\SingletoExampleDW_LMV.AssemblyInfo.cs
+C:\Users\Rolando\source\repos\SingletoExampleDW_LMV\SingletoExampleDW_LMV\obj\Debug\netcoreapp3.1\SingletoExampleDW_LMV.csproj.CoreCompileInputs.cache
+C:\Users\Rolando\source\repos\SingletoExampleDW_LMV\SingletoExampleDW_LMV\obj\Debug\netcoreapp3.1\SingletoExampleDW_LMV.dll
+C:\Users\Rolando\source\repos\SingletoExampleDW_LMV\SingletoExampleDW_LMV\obj\Debug\netcoreapp3.1\SingletoExampleDW_LMV.pdb
+C:\Users\Rolando\source\repos\SingletoExampleDW_LMV\SingletoExampleDW_LMV\obj\Debug\netcoreapp3.1\SingletoExampleDW_LMV.genruntimeconfig.cache
